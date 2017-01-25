@@ -2,7 +2,7 @@
 
 This is a simple `ruby` gem to detect any Arabian name gender.
 
-Now I have a database of `2430 names` for a starting but I am looking for your contributions.
+Now I have a database of `2434 names` for a starting but I am looking for your contributions.
 
 ## Installation
 
